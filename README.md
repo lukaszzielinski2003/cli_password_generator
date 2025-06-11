@@ -6,7 +6,7 @@ This is a simple command-line program written in Python that helps you create ra
 
 - Choose if you want lowercase letters, uppercase letters, numbers, and special characters in your password.
 - Set the length of the password.
-- Easy to use with a simple menu.\
+- Easy to use with a simple menu.
 
 ## How to copy this repository
 
@@ -21,9 +21,11 @@ git clone https://github.com/lukaszzielinski2003/cli_passwordgenerator.git
 1. Make sure you have Python installed (version 3 or higher).
 2. Open your terminal or command prompt.
 3. Run the program by typing:
-   ```bash
-   python main.py
-   ```
+
+```bash
+python main.py
+```
+
 4. Follow the instructions on the screen to generate your password.
 
 ## Requirements
