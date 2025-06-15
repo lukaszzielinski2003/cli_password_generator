@@ -13,7 +13,7 @@ This is a simple command-line program written in Python that helps you create ra
 To copy (clone) this repository to your local machine, use the following command:
 
 ```bash
-git clone https://github.com/lukaszzielinski2003/cli_passwordgenerator.git
+git clone https://github.com/lukaszzielinski2003/cli_password_generator.git
 ```
 
 ## How to run
