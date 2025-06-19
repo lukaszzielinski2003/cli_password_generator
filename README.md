@@ -5,37 +5,49 @@ This is a simple command-line program written in Python that helps you create ra
 ## Features
 
 - Choose if you want lowercase letters, uppercase letters, numbers, and special characters in your password.
+
 - Set the length of the password.
+
 - Easy to use with a simple menu.
-
-## How to copy this repository
-
-To copy (clone) this repository to your local machine, use the following command:
-
-```bash
-git clone https://github.com/lukaszzielinski2003/cli_password_generator.git
-```
 
 ## How to run
 
-1. Make sure you have Python installed (version 3 or higher).
-2. Open your terminal or command prompt.
-3. Run the program by typing:
+1. Clone the repo or download the files.
+
+2. Make sure you have Python 3 installed.
+
+3. Run the program:
 
 ```bash
 python main.py
 ```
 
-4. Follow the instructions on the screen to generate your password.
+# Usage
 
-## Requirements
+- You will be asked which types of characters you want to include in your password.
 
-- Python 3.x
+- Next, the program will prompt you to enter the desired password length.
 
-## How it works
+- After that, a secure random password will be generated and displayed based on your choices.
 
-The program asks you which types of characters you want in your password, then asks how long the password should be, and finally shows you the generated password.
+## Sample
 
-## License
+```
++--------------------------------+
+|       PASSWORD GENERATOR       |
++--------------------------------+
+| 1. Generate password           |
+| 2. Exit                        |
++--------------------------------+
+Select operation: 1
+Include lowercase letters? (y/n): y
+Include uppercase letters? (y/n): y
+Include digits? (y/n): y
+Include special characters? (y/n): y
+Enter number of characters: 16
+Your password: jWKsJE9UcWRyPf$V
+```
+
+# License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
